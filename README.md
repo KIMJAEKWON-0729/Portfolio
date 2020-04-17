@@ -35,11 +35,11 @@
 3. **사용 기술**
     * R, Tensorflow, Keras
     * Data Crawling, Machine Learning, Deep Learning, NLP   
-3. **수행 업무** 
+4. **수행 업무** 
     * Structured Data + Text Data 를 결합한 Prediction Model
     * - Text Data(학생 상담 내역 기록 등) 기반의 Prediction Modeling (Convolutional Neural Network)
     * - Structured Data(학생정보, 자기평가 지표, 이수내역 등)를 기반한 Prediction Modeling 
-4. <b>Git-hub</b>
+5. <b>Git-hub</b>
 
 
 >  > ---
@@ -50,11 +50,11 @@
 3. **사용 기술**
     * R
     * NPL, Topic modeling    
-3. **수행 업무** 
+4. **수행 업무** 
     * LDA algorithm 을 활용한 주요 Topic 파악
     * 의미연결 분석으로 주요 민원 내용의 관계 파악 
     * Topic model과 의미연결 분석에 기초한 민원 Classification-logic modeling
-4. **성과** - 서울시 빅데이터 캠퍼스, 한국소비자원의 `Mahcine Learning을 활용한 민원분류 모델`의 기초자료 
+5. **성과** - 서울시 빅데이터 캠퍼스, 한국소비자원의 `Mahcine Learning을 활용한 민원분류 모델`의 기초자료 
 
 >  > ---
 
@@ -65,10 +65,25 @@
 3. **사용 기술**
     * R
         
-3. **수행 업무** 
+4. **수행 업무** 
     * 통계청 데이터 전처리 
     * 구글 api 활용 창원시 지도 시각화  
     * 기초 통계 분석
+>  > ---
+
+**연구보조 **<br> 
+
+1. **기간** - 2019. 10 - 현재
+2. **목적** - PSI 예측 모델 성능 향상 개발
+3. **사용 기술**
+    * R
+    * Python 
+    * Tensorflow
+3. **수행 업무** 
+    * DB 연결 (Azure Data Studio)
+    * 통계 분석 - 상관 , 회귀, K-means Clustering
+    * 보고서 작성   
+   
 ---
 ## Lectures
 
