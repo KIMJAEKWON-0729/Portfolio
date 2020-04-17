@@ -36,7 +36,6 @@
     * R, Tensorflow, Keras
     * Data Crawling, Machine Learning, Deep Learning, NLP   
 3. **수행 업무** 
-    * NLP(Natural Language Processing) 기술을 활용한 단어 관계 도출 (Word2Vec)
     * Structured Data + Text Data 를 결합한 Prediction Model
     * - Text Data(학생 상담 내역 기록 등) 기반의 Prediction Modeling (Convolutional Neural Network)
     * - Structured Data(학생정보, 자기평가 지표, 이수내역 등)를 기반한 Prediction Modeling 
@@ -59,7 +58,7 @@
 
 >  > ---
 
-**창원시 인구 시각화**<br>경남대학교
+**창원시 인구 시각화**<br>경남대학교-빅데이터 캡스톤 디자인 프로젝트
 
 1. **기간** - 2019. 3 - 2019. 6
 2. **목적** - 통계청 데이터를 활용한 창원시 인구 지도 시각화  
@@ -67,18 +66,14 @@
     * R
         
 3. **수행 업무** 
-    * LDA algorithm 을 활용한 주요 Topic 파악
-    * 의미연결 분석으로 주요 민원 내용의 관계 파악 
-    * Topic model과 의미연결 분석에 기초한 민원 Classification-logic modeling
-4. **성과** - 서울시 빅데이터 캠퍼스, 한국소비자원의 `Mahcine Learning을 활용한 민원분류 모델`의 기초자료 
-
+    * 통계청 데이터 전처리 
+    * 구글 api 활용 창원시 지도 시각화  
+    * 기초 통계 분석
 ---
 ## Lectures
 
 * **2019년**
-    * <a href = "https://github.com/KimJiSeong1994/lecture/tree/master/crawling_lecture"> How to Data Crawling with R Selenium  - Kyungnam University sociology (11. 27) </a>
-    * <a href = "https://github.com/KimJiSeong1994/lecture/tree/master/TidyData_lecture"> How to tidying Data with R - Kyungnam University sociology (12. 5) </a>
-
+    
 ---
 
 ## 자격증명
@@ -94,7 +89,6 @@
 
 ## Activity
 * <a href = "https://github.com/KimJiSeong1994/Data-Analysis_Study_Changwon"><b>Changwon Data Analysis Study Group</b></a> 
-* <a href = "https://github.com/KimJiSeong1994/BOOK"><b>Book</b></a>
 
 —
 
