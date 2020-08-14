@@ -49,7 +49,7 @@
 2. **목적** - 민원 분석을 통한 Classification-logic modeling  
 3. **사용 기술**
     * R
-    * NPL, Topic modeling    
+    * NLP, Topic modeling    
 4. **수행 업무** 
     * LDA algorithm 을 활용한 주요 Topic 파악
     * 의미연결 분석으로 주요 민원 내용의 관계 파악 
